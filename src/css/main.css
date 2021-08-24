@@ -96,6 +96,7 @@ h1, h2, h3, h4, .dataset h3 a {
 
 #aws_header_logo {
   max-width: 59px;
+  max-height: 69px;
   float:right;
   padding:16px 0 16px 0 ;
 }
